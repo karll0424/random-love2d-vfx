@@ -1,2 +1,5 @@
 # random-love2d-vfx
-love2d visual vfx program for fun that's inspired by the trailing effects of the roaring knight (from deltarune)
+this is like a thing i made in college once because i thought the roaring knight's trail effects were really freakin cool so i booted up love2d
+i also tried to do like a rgb gradient interpolation function from scratch but it ended up looking a little weird
+
+this will likely not be maintained as its just something for fun really, don't count on it
